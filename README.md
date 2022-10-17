@@ -1,11 +1,11 @@
 # Flask Application
 
 ## Requirements
-### 1. Flask
-### 2. SQLAlchemy
-### 3. Blueprint
-### 4. PyOpenSSL
-### 5. Crypto Module Python
+#### 1. Flask
+#### 2. SQLAlchemy
+#### 3. Blueprint
+#### 4. PyOpenSSL
+#### 5. Crypto Module Python
 
 ## Creating virtual environment for the applicatoion
 
