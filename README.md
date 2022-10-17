@@ -1,4 +1,4 @@
-python -m venv venv 
+```python -m venv venv 
 source venv/Scripts/activate 
 pip install flask pyOpenSSL cryptography
 pip install requests install SQLAlchemy Flask-SQLAlchemy
@@ -6,7 +6,7 @@ export FLASK_APP=blueprint
 export FLASK_ENV=development
 flask run
 touch blueprint/models.py
-touch blueprint/extensions.py
+touch blueprint/extensions.py ```
 
 [
          {'name':'Python',
